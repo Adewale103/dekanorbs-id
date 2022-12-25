@@ -1,6 +1,7 @@
 # dekanorbs_id
 
 A sample cohort 10 Id
+![Sample Image](https://raw.githubusercontent.com/Adewale103/dekanorbs-id/main/dartplay1.png)
 
 ## Getting Started
 
